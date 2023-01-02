@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Repositories &#8211; CryptoidCoder</title>
+	<atom:link href="/topics/repositories/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>If it’s stupid and it works, it’s not stupid</description>
+	<lastBuildDate>Mon, 02 Jan 2023 17:48:56 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Techno</title>
+		<link>/python/techno/</link>
+					<comments>/python/techno/#respond</comments>
+		
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 13:16:33 +0000</pubDate>
+				<category><![CDATA[Python]]></category>
+		<category><![CDATA[Repositories]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[virtual-assistant]]></category>
+		<guid isPermaLink="false">/?p=202</guid>
+
+					<description><![CDATA[URL: https://github.com/CryptoidCoder/Techno About: A Virtual Assistant made using python. Branches: main&#8211; Has local Setup (main branch):&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>URL:</h2>
+
+
+
+<p><a href="https://github.com/CryptoidCoder/Techno">https://github.com/CryptoidCoder/Techno</a></p>
+
+
+
+<h2>About:</h2>
+
+
+
+<p>A Virtual Assistant made using python.</p>
+
+
+
+<h2>Branches:</h2>
+
+
+
+<ul><li><code>main</code>&#8211; Has local<span style="font-size: revert; color: initial;"></span></li></ul>
+
+
+
+<h2>Setup (main branch):</h2>
+
+
+
+<p><p><code>pip install -r requirements.txt</code></p>
+<p><code>./venv/Scripts/python.exe setup.py</code></p></p>
+
+
+
+<h2>Run (main branch):</h2>
+
+
+
+<p><code>./venv/Scripts/python.exe main.py</code></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/python/techno/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Twitter-API-Bot</title>
+		<link>/bots/twitter-api-bot/</link>
+					<comments>/bots/twitter-api-bot/#respond</comments>
+		
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 13:11:51 +0000</pubDate>
+				<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Repositories]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[heroku]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[social media bots]]></category>
+		<guid isPermaLink="false">/?p=199</guid>
+
+					<description><![CDATA[URL: Twitter-API-Bot About: A Twitter bot written in python, messaging new followers, posting, etc Branches: main&#8211;&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>URL:</h2>
+
+
+
+<p><a href="https://github.com/CryptoidCoder/Twitter-API-Bot">Twitter-API-Bot</a></p>
+
+
+
+<h2>About:</h2>
+
+
+
+<p>A Twitter bot written in python, messaging new followers, posting, etc</p>
+
+
+
+<h2>Branches:</h2>
+
+
+
+<ul><li><code>main</code>&#8211; Has local / cloudrun version<span style="font-size: revert; color: initial;">on</span></li><li><code>heroku</code> &#8211; Has heroku version</li></ul>
+
+
+
+<h2>Setup (main branch):</h2>
+
+
+
+<p><p><code>pip install -r requirements.txt</code></p>
+<p><code>./venv/Scripts/python.exe setup.py</code></p></p>
+
+
+
+<h2>Run (main branch):</h2>
+
+
+
+<p><code>./venv/Scripts/python.exe main.py</code></p>
+
+
+
+<h2>Setup (heroku branch):</h2>
+
+
+
+<p><p><code>pip install -r requirements.txt</code></p>
+<p><code>./venv/Scripts/python.exe setup.py</code></p></p>
+
+
+
+<h2>Run (heroku branch):</h2>
+
+
+
+<p>Designed For Use With The <code>Procfile</code> In Heroku</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bots/twitter-api-bot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Git-Template</title>
+		<link>/github/git-template/</link>
+					<comments>/github/git-template/#respond</comments>
+		
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 12:53:31 +0000</pubDate>
+				<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[Repositories]]></category>
+		<category><![CDATA[Templates]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[templates]]></category>
+		<guid isPermaLink="false">/?p=197</guid>
+
+					<description><![CDATA[URL: https://github.com/CryptoidCoder/Git-Template About: A template project repository with everything needed for a git project on it.&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>URL:</h2>
+
+
+
+<p><a href="https://github.com/CryptoidCoder/Git-Template">https://github.com/CryptoidCoder/Git-Template</a></p>
+
+
+
+<h2>About:</h2>
+
+
+
+<p>A template project repository with everything needed for a git project on it. (How To Setup git Stuff)</p>
+
+
+
+<h2>Branches:</h2>
+
+
+
+<p><code>main </code>&#8211; Has Everything On It</p>
+
+
+
+<h2>Setup:</h2>
+
+
+
+<p><code>pip install </code>-r requirements.txt</p>
+
+
+
+<h2>Run:</h2>
+
+
+
+<p><code>./venv/Scripts/python.exe main.py</code></p>
+
+
+
+<p>Designed For Use With The <code>Procfile</code> In Heroku</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/github/git-template/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Birthday-Wishes</title>
+		<link>/python/birthday-wishes/</link>
+					<comments>/python/birthday-wishes/#respond</comments>
+		
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 12:50:31 +0000</pubDate>
+				<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Repositories]]></category>
+		<category><![CDATA[bots]]></category>
+		<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">/?p=194</guid>
+
+					<description><![CDATA[URL: https://github.com/CryptoidCoder/Birthday-Wishes About: A bot to message people on their birthdays Branches: main &#8211; Has Everything&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>URL:</h2>
+
+
+
+<p><a href="https://github.com/CryptoidCoder/Birthday-Wishes">https://github.com/CryptoidCoder/Birthday-Wishes</a></p>
+
+
+
+<h2>About:</h2>
+
+
+
+<p>A bot to message people on their birthdays</p>
+
+
+
+<h2>Branches:</h2>
+
+
+
+<p><code>main </code>&#8211; Has Everything On It</p>
+
+
+
+<h2>Setup:</h2>
+
+
+
+<p><code>pip install </code>-r requirements.txt</p>
+
+
+
+<h2>Run:</h2>
+
+
+
+<p><code>./venv/Scripts/python.exe main.py</code></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/python/birthday-wishes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>whatsappbot</title>
+		<link>/python/whatsappbot/</link>
+					<comments>/python/whatsappbot/#respond</comments>
+		
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 12:49:41 +0000</pubDate>
+				<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Repositories]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[social media bots]]></category>
+		<guid isPermaLink="false">/?p=192</guid>
+
+					<description><![CDATA[URL: https://github.com/CryptoidCoder/whatsappbot About: A WhatsApp bot built in python Branches: main &#8211; Has Everything On It&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>URL:</h2>
+
+
+
+<p><a href="https://github.com/CryptoidCoder/whatsappbot">https://github.com/CryptoidCoder/whatsappbot</a></p>
+
+
+
+<h2>About:</h2>
+
+
+
+<p>A WhatsApp bot built in python</p>
+
+
+
+<h2>Branches:</h2>
+
+
+
+<p><code>main </code>&#8211; Has Everything On It</p>
+
+
+
+<h2>Setup:</h2>
+
+
+
+<p><code>pip install </code>-r requirements.txt</p>
+
+
+
+<h2>Run:</h2>
+
+
+
+<p><code>./venv/Scripts/python.exe whastappbot.py</code></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/python/whatsappbot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>python-template</title>
+		<link>/templates/python-template/</link>
+					<comments>/templates/python-template/#respond</comments>
+		
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 12:48:00 +0000</pubDate>
+				<category><![CDATA[Repositories]]></category>
+		<category><![CDATA[Templates]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[templates]]></category>
+		<guid isPermaLink="false">/?p=190</guid>
+
+					<description><![CDATA[URL: https://github.com/CryptoidCoder/python-template About: A template project repository with everything needed for a python project on it&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>URL:</h2>
+
+
+
+<p><a href="https://github.com/CryptoidCoder/python-template">https://github.com/CryptoidCoder/python-template</a></p>
+
+
+
+<h2>About:</h2>
+
+
+
+<p>A template project repository with everything needed for a python project on it</p>
+
+
+
+<h2>Branches:</h2>
+
+
+
+<p><code>main </code>&#8211; Has Everything On It</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/templates/python-template/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>heroku-template</title>
+		<link>/templates/heroku-template/</link>
+					<comments>/templates/heroku-template/#respond</comments>
+		
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 12:46:48 +0000</pubDate>
+				<category><![CDATA[Repositories]]></category>
+		<category><![CDATA[Templates]]></category>
+		<category><![CDATA[heroku]]></category>
+		<category><![CDATA[templates]]></category>
+		<guid isPermaLink="false">/?p=188</guid>
+
+					<description><![CDATA[URL: https://github.com/CryptoidCoder/heroku-template About: A template project repository with everything needed for a heroku project on it&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>URL:</h2>
+
+
+
+<p><a href="https://github.com/CryptoidCoder/heroku-template">https://github.com/CryptoidCoder/heroku-template</a></p>
+
+
+
+<h2>About:</h2>
+
+
+
+<p>A template project repository with everything needed for a heroku project on it</p>
+
+
+
+<h2>Branches:</h2>
+
+
+
+<p><code>main </code>&#8211; Has Everything On It</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/templates/heroku-template/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CryptoidCoder</title>
+		<link>/github/cryptoidcoder/</link>
+					<comments>/github/cryptoidcoder/#respond</comments>
+		
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 12:44:28 +0000</pubDate>
+				<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[Repositories]]></category>
+		<category><![CDATA[markdown]]></category>
+		<guid isPermaLink="false">/?p=185</guid>
+
+					<description><![CDATA[URL: https://github.com/CryptoidCoder/CryptoidCoder About: My README For My Github Repo Branches: main &#8211; Has Everything On It&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>URL:</h2>
+
+
+
+<p><a href="https://github.com/CryptoidCoder/CryptoidCoder">https://github.com/CryptoidCoder/CryptoidCoder</a></p>
+
+
+
+<h2>About:</h2>
+
+
+
+<p>My README For My Github Repo</p>
+
+
+
+<h2>Branches:</h2>
+
+
+
+<p><code>main </code>&#8211; Has Everything On It</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/github/cryptoidcoder/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HTML-website</title>
+		<link>/python/html-website/</link>
+					<comments>/python/html-website/#respond</comments>
+		
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 12:43:07 +0000</pubDate>
+				<category><![CDATA[Python]]></category>
+		<category><![CDATA[Repositories]]></category>
+		<category><![CDATA[Websites]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[websites]]></category>
+		<guid isPermaLink="false">/?p=182</guid>
+
+					<description><![CDATA[URL: https://github.com/CryptoidCoder/HTML-website About: A HTML &#38; Python based blog site, where Git would play a large&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>URL:</h2>
+
+
+
+<p><a href="https://github.com/CryptoidCoder/HTML-website">https://github.com/CryptoidCoder/HTML-website</a></p>
+
+
+
+<h2>About:</h2>
+
+
+
+<p>A HTML &amp; Python based blog site, where Git would play a large part in publishing new posts.</p>
+
+
+
+<h2>Branches:</h2>
+
+
+
+<p><code>main </code>&#8211; Has Everything On It</p>
+
+
+
+<h2>Setup:</h2>
+
+
+
+<p><code>pip install </code>-r requirements.txt</p>
+
+
+
+<h2>Run:</h2>
+
+
+
+<p><code>./venv/Scripts/python.exe file.py</code> &#8211; where <code>file.py</code> is the file you want to run.</p>
+
+
+
+<p>Designed For Use With The <code>Procfile</code> In Heroku</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/python/html-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Codes.py</title>
+		<link>/python/codes-py/</link>
+					<comments>/python/codes-py/#respond</comments>
+		
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 12:27:58 +0000</pubDate>
+				<category><![CDATA[Python]]></category>
+		<category><![CDATA[Repositories]]></category>
+		<category><![CDATA[one-off]]></category>
+		<category><![CDATA[python]]></category>
+		<guid isPermaLink="false">/?p=178</guid>
+
+					<description><![CDATA[URL: https://github.com/CryptoidCoder/Codes.py About: A Collection Of Random One-Off Python Projects. Branches: main &#8211; Has Everything On&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>URL:</h2>
+
+
+
+<p><a href="https://github.com/CryptoidCoder/Codes.py">https://github.com/CryptoidCoder/Codes.py</a></p>
+
+
+
+<h2>About:</h2>
+
+
+
+<p>A Collection Of Random One-Off Python Projects.</p>
+
+
+
+<h2>Branches:</h2>
+
+
+
+<p><code>main </code>&#8211; Has Everything On It</p>
+
+
+
+<h2>Setup:</h2>
+
+
+
+<p><code>pip install </code>-r requirements.txt</p>
+
+
+
+<h2>Run:</h2>
+
+
+
+<p><code>./venv/Scripts/python.exe file.py</code> &#8211; where <code>file.py</code> is the file you want to run.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/python/codes-py/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

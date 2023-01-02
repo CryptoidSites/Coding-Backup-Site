@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>virtual-assistant &#8211; CryptoidCoder</title>
+	<atom:link href="/tags/virtual-assistant/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>If it’s stupid and it works, it’s not stupid</description>
+	<lastBuildDate>Mon, 04 Apr 2022 13:16:33 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Techno</title>
+		<link>/python/techno/</link>
+					<comments>/python/techno/#respond</comments>
+		
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 13:16:33 +0000</pubDate>
+				<category><![CDATA[Python]]></category>
+		<category><![CDATA[Repositories]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[virtual-assistant]]></category>
+		<guid isPermaLink="false">/?p=202</guid>
+
+					<description><![CDATA[URL: https://github.com/CryptoidCoder/Techno About: A Virtual Assistant made using python. Branches: main&#8211; Has local Setup (main branch):&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>URL:</h2>
+
+
+
+<p><a href="https://github.com/CryptoidCoder/Techno">https://github.com/CryptoidCoder/Techno</a></p>
+
+
+
+<h2>About:</h2>
+
+
+
+<p>A Virtual Assistant made using python.</p>
+
+
+
+<h2>Branches:</h2>
+
+
+
+<ul><li><code>main</code>&#8211; Has local<span style="font-size: revert; color: initial;"></span></li></ul>
+
+
+
+<h2>Setup (main branch):</h2>
+
+
+
+<p><p><code>pip install -r requirements.txt</code></p>
+<p><code>./venv/Scripts/python.exe setup.py</code></p></p>
+
+
+
+<h2>Run (main branch):</h2>
+
+
+
+<p><code>./venv/Scripts/python.exe main.py</code></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/python/techno/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Templates &#8211; CryptoidCoder</title>
+	<atom:link href="/topics/templates/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>If it’s stupid and it works, it’s not stupid</description>
+	<lastBuildDate>Mon, 02 Jan 2023 17:48:56 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Git-Template</title>
+		<link>/github/git-template/</link>
+					<comments>/github/git-template/#respond</comments>
+		
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 12:53:31 +0000</pubDate>
+				<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[Repositories]]></category>
+		<category><![CDATA[Templates]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[templates]]></category>
+		<guid isPermaLink="false">/?p=197</guid>
+
+					<description><![CDATA[URL: https://github.com/CryptoidCoder/Git-Template About: A template project repository with everything needed for a git project on it.&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>URL:</h2>
+
+
+
+<p><a href="https://github.com/CryptoidCoder/Git-Template">https://github.com/CryptoidCoder/Git-Template</a></p>
+
+
+
+<h2>About:</h2>
+
+
+
+<p>A template project repository with everything needed for a git project on it. (How To Setup git Stuff)</p>
+
+
+
+<h2>Branches:</h2>
+
+
+
+<p><code>main </code>&#8211; Has Everything On It</p>
+
+
+
+<h2>Setup:</h2>
+
+
+
+<p><code>pip install </code>-r requirements.txt</p>
+
+
+
+<h2>Run:</h2>
+
+
+
+<p><code>./venv/Scripts/python.exe main.py</code></p>
+
+
+
+<p>Designed For Use With The <code>Procfile</code> In Heroku</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/github/git-template/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>python-template</title>
+		<link>/templates/python-template/</link>
+					<comments>/templates/python-template/#respond</comments>
+		
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 12:48:00 +0000</pubDate>
+				<category><![CDATA[Repositories]]></category>
+		<category><![CDATA[Templates]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[templates]]></category>
+		<guid isPermaLink="false">/?p=190</guid>
+
+					<description><![CDATA[URL: https://github.com/CryptoidCoder/python-template About: A template project repository with everything needed for a python project on it&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>URL:</h2>
+
+
+
+<p><a href="https://github.com/CryptoidCoder/python-template">https://github.com/CryptoidCoder/python-template</a></p>
+
+
+
+<h2>About:</h2>
+
+
+
+<p>A template project repository with everything needed for a python project on it</p>
+
+
+
+<h2>Branches:</h2>
+
+
+
+<p><code>main </code>&#8211; Has Everything On It</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/templates/python-template/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>heroku-template</title>
+		<link>/templates/heroku-template/</link>
+					<comments>/templates/heroku-template/#respond</comments>
+		
+		<dc:creator><![CDATA[Webmaster]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 12:46:48 +0000</pubDate>
+				<category><![CDATA[Repositories]]></category>
+		<category><![CDATA[Templates]]></category>
+		<category><![CDATA[heroku]]></category>
+		<category><![CDATA[templates]]></category>
+		<guid isPermaLink="false">/?p=188</guid>
+
+					<description><![CDATA[URL: https://github.com/CryptoidCoder/heroku-template About: A template project repository with everything needed for a heroku project on it&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>URL:</h2>
+
+
+
+<p><a href="https://github.com/CryptoidCoder/heroku-template">https://github.com/CryptoidCoder/heroku-template</a></p>
+
+
+
+<h2>About:</h2>
+
+
+
+<p>A template project repository with everything needed for a heroku project on it</p>
+
+
+
+<h2>Branches:</h2>
+
+
+
+<p><code>main </code>&#8211; Has Everything On It</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/templates/heroku-template/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
